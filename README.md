@@ -10,7 +10,5 @@
 
 <h3 align="center">Languages and Tools that I used</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,ts,jquery,alpinejs,npm,vue,pinia,nuxtjs,tailwind,c,cs,dotnet,php,laravel,mysql,postgres,windows,linux,ubuntu,vercel,postman,py,vscode,visualstudio,phpstorm,webstorm" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,ts,jquery,alpinejs,npm,vue,pinia,nuxtjs,tailwind,c,cs,dotnet,php,laravel,mysql,postgres,windows,linux,ubuntu,vercel,postman,py,vscode,visualstudio,phpstorm,webstorm" />
 </p>
