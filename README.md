@@ -2,10 +2,9 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mostafa-mahmoud-0b7578242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-lotfy-0b7578242" height="30" width="40" /></a>
-<a href="https://fb.com/blackops1999m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blackops1999m" height="30" width="40" /></a>
-<a href="https://twitter.com/@blackops_1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@blackops_1999" height="30" width="40" /></a>
-<a href="https://instagram.com/mostafa.lotfy.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafa.lotfy.7" height="30" width="40" /></a>
+<a href="https://twitter.com/@blackops_1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="@blackops_1999" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mostafa-mahmoud-0b7578242/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="mostafa-lotfy-0b7578242" height="30" width="40" /></a>
+<a href="https://fb.com/blackops1999m" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="blackops1999m" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools that I used</h3>
